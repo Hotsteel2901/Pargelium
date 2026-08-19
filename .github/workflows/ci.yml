@@ -30,7 +30,6 @@ jobs:
         with:
           packages: >-
             platform-tools
-            platforms;android-37
             ndk;30.0.15729638
             cmake;3.22.1
 
